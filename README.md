@@ -1,6 +1,20 @@
-# todo
+# todo list
 
-A new Flutter project.
+Flutter project for save list of to-do
+login with clean architecture and BLoC Pattern
+
+## data base
+### drift
+Drift, which was formerly known as Moor, is a reactive persistence library for Flutter and Dart, built on SQLite.
+
+It is more of a wrapper around the SQlite package that provides us with the same functions and tools needed to write structured relational database queries, and it also takes time to reduce the boilerplate encountered in traditional SQLite scenarios.
+
+The major advantage of Moor database is that it can be used alongside build_runner.
+
+why drift?
+because is an implementation of a <<room>> the suggested library by android native team.
+
+
 
 ## Getting Started
 
